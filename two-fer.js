@@ -1,4 +1,4 @@
-export function twoFer(name= "you") {
-    return "One for " + name + ", one for me.";
+export function twoFer( givenName = "you") {
+    return "One for " + givenName + ", one for me.";
 }
-console.log(twoFer);
+//august 18 2019
